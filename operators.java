@@ -1,5 +1,5 @@
 void main(){
-    int a = 13;
+    int a = 10;
     int b = 20;
     // int c = a++;
     // int d = ++a;
