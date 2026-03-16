@@ -16,12 +16,8 @@ void main(){
         //     break;
 
                     //or
-        case (55)-> System.out.println("Second class");
-            
-          
-        case (65)-> System.out.println("First class");
-            
-          
+        case 55,57,58,59-> System.out.println("Second class");
+        case (65)-> System.out.println("First class"); 
         default->System.out.println("Failed");
             
                    
