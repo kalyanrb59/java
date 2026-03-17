@@ -6,7 +6,14 @@ void printSeries(int sn, int en){
     }
 }
 
+int add (int a, int b){
+    int c = a+b;
+    return c;
+}
+
 void main(){
-    printSeries(30,40);
-    printSeries(20,30);
+    // printSeries(30,40);
+    // printSeries(20,30);
+    System.out.println(add(10,20));
+    System.out.println(add(110,240));
 }
